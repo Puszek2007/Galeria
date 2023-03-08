@@ -1,0 +1,40 @@
+
+*{
+    background-color: cornsilk;
+}
+
+style {
+    background-color: cornsilk;
+}
+
+body {
+    background-color: cornsilk;
+}
+
+.grid {
+    background-color: cornsilk;
+}
+
+h5 {
+    font-family:Trattatello, cursive;
+}
+
+.tytul {
+    text-align: center;
+    font-size: 35px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-top: 20px;
+    margin-bottom: 20px;
+   
+}
+
+
+.card {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.card-body {
+    background-color: lightblue;
+}
+
